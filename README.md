@@ -1,6 +1,6 @@
 ## This project uses some external dependencies
 
-After for go to project directory and run
+After forking this repo, go to project directory and run
 ### `npm install`
 
 ## Available Scripts
