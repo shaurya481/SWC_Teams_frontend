@@ -1,0 +1,41 @@
+{
+  "name": "header-with-sidenav",
+  "version": "1.0.0",
+  "description": "Template for the React version of the Carbon Design System.",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/new",
+  "main": "src/index.js",
+  "dependencies": {
+    "@carbon/ibm-cloud-cognitive": "^0.49.4",
+    "@carbon/icons-react": "^10.3.0",
+    "@carbon/themes": "^10.36.0",
+    "@material-ui/core": "^4.11.4",
+    "@material-ui/icons": "^4.11.2",
+    "carbon-components": "^10.3.1",
+    "carbon-components-react": "^7.3.1",
+    "carbon-themes": "^1.7.0",
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^2.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
